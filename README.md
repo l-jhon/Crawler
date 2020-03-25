@@ -23,6 +23,7 @@
 pip install urllib3
 pip install bs4
 pip install lxml
+pip install urljoin
 ```
 
 para baixar o projeto utilizando o git, rode o comando abaixo:
@@ -58,6 +59,10 @@ rode o comando abaixo de dentro da pasta raiz do projeto:
 ```python
 python CovidZero_Crawlers_v0.py
 ```
+
+### TODO:
+
+- [ ] O resultado(Pasta Estados) deve ser gravado no seguinte repositorio https://github.com/CovidZeroNews/Arquivo 
 
 ### Futuras implementações e melhorias:
 - [ ] Um processo que rode de tempos em tempos realizando um novo sync dos dados(Cron+ Servidor Web) (Pendente)
