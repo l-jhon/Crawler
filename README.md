@@ -61,7 +61,6 @@ python CovidZero_Crawlers_v0.py
 ```
 
 ### TODO:
-
 - [ ] O resultado(Pasta Estados) deve ser gravado no seguinte repositorio https://github.com/CovidZeroNews/Arquivo 
 
 ### Futuras implementações e melhorias:
