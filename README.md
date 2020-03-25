@@ -23,6 +23,7 @@
 pip install urllib3
 pip install bs4
 pip install lxml
+pip install urljoin
 ```
 
 para baixar o projeto utilizando o git, rode o comando abaixo:
